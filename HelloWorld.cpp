@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	std::cout << "OverWatch!\n";
+	std::cout << "Fight on!\n";
 	return 0;
 }
